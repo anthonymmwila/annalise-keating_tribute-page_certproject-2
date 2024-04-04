@@ -1,1 +1,1 @@
-# Tribute page_RWD Certification Project-2
+# Tribute page_Responsive Web Design Certification Project-2
